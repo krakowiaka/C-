@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547054894 source:c:\users\studentka\desktop\inzynieria biomedyczna_sem1\ppr_lab\zadanie_domowe_1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
